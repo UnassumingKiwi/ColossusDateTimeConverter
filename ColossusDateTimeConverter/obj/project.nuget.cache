@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWMhUpa/d0E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JBSto\\Desktop\\Code\\ColossusDateTimeConverter\\ColossusDateTimeConverter\\ColossusDateTimeConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JBSto\\.nuget\\packages\\yamldotnet\\16.0.0\\yamldotnet.16.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

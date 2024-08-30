@@ -1,0 +1,59 @@
+﻿Key: CommonEraUTC
+Name: Common Era UTC
+Offset: 0
+StartYear: 1970
+SecondsPerMinute: 60
+MinutesPerHour: 60
+HoursPerDay: 24
+LeapSecondsPerYear: 20736
+YearSignifier: CE
+StandardFormat: hh:MM:s mon d, y x
+Months:
+- Name: January
+  Number: 1
+  Days: 31
+  GetsLeapDay: false
+- Name: February
+  Number: 2
+  Days: 29
+  GetsLeapDay: true
+- Name: March
+  Number: 3
+  Days: 31
+  GetsLeapDay: false
+- Name: April
+  Number: 4
+  Days: 30
+  GetsLeapDay: false
+- Name: May
+  Number: 5
+  Days: 31
+  GetsLeapDay: false
+- Name: June
+  Number: 6
+  Days: 30
+  GetsLeapDay: false
+- Name: July
+  Number: 7
+  Days: 31
+  GetsLeapDay: false
+- Name: August
+  Number: 8
+  Days: 31
+  GetsLeapDay: false
+- Name: September
+  Number: 9
+  Days: 30
+  GetsLeapDay: false
+- Name: October
+  Number: 10
+  Days: 31
+  GetsLeapDay: false
+- Name: November
+  Number: 11
+  Days: 30
+  GetsLeapDay: false
+- Name: December
+  Number: 12
+  Days: 31
+  GetsLeapDay: false
